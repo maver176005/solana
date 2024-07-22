@@ -4,7 +4,7 @@
 
 1. Клонировать репозиторий:
     ```bash
-    git clone https://github.com/yourusername/solana.git
+    git clone https://github.com/maver176005/solana.git
     cd solana
     ```
 
